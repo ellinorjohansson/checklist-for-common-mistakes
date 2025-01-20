@@ -1,7 +1,7 @@
 # Vanliga misstag 🔍
 
 > [!NOTE]  
-> Lista hämtad från skolan och sparad för framtida projekt, som en reminder till mig själv.
+> Lista hämtad från utbildningen och sparad för framtida projekt, som en reminder till mig själv.
 
 ---
 
